@@ -1,0 +1,4 @@
+name = "Modbus"
+uuid = "1d00902f-1cc1-4d24-9f86-a6d04d787667"
+authors = ["Ola Rasmus Moen <olamoen@protonmail.com>"]
+version = "0.1.0"
